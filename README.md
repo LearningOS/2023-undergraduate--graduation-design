@@ -11,10 +11,10 @@
 - [proj]()
 
 ### Bi Haoyang
-- [proj]()
+- [proj](https://github.com/scPointer/maturin)
 
 ### Li Longhao
-- [proj]()
+- [proj](https://github.com/llh730/seL4-rust-implement)
 
 ### Yang Jinbo
 - [proj](https://github.com/yfblock/ByteOS/)
