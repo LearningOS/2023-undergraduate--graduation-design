@@ -8,7 +8,7 @@
 - [proj](https://github.com/KaitoD/multi-OS-with-Job-Placement)
 
 ### Jia Yueting
-- [proj]()
+- [proj](https://github.com/emily-jia/monoRCore)
 
 ### Bi Haoyang
 - [proj](https://github.com/scPointer/maturin)
