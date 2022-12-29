@@ -18,7 +18,10 @@
 
 ### Yang Jinbo
 - [proj](https://github.com/yfblock/ByteOS/)
+- [doc](https://yfblock.github.io/os-dev-daily)
 
 ### Ren Letu
 - [proj](https://github.com/FantasqueX/Custom-OS-Test-Framework)
 
+### Xu Wenbo
+- [proj](https://github.com/BillXWB/Bachelor-Thesis/)
